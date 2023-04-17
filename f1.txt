@@ -4,3 +4,9 @@ file1 line2 external modified
 file1 line3 local change3
 
 
+
+
+file1 line2 external modified 
+file1 line3 lin4
+added new line 5 external commit
+
