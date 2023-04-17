@@ -1,7 +1,8 @@
 file1 line1
-file1 line2 testing conflict workspace local change2
+file1 line2 testing conflict workspace local change2 
 file1 line2 external modified
 file1 line3 local change3
+<<<<<<< HEAD
 line5
 line6
 line7
@@ -9,6 +10,8 @@ line8
 
 
 
+=======
+>>>>>>> cd41c0568b62e0e831a72519476b903f9b4466f2
 file1 line2 external modified 
 file1 line3 lin4
 added new line 5 external commit
